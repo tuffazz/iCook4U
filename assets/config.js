@@ -3,7 +3,7 @@ window.ICOOK_CONFIG = {
   // TODO: replace with the real App Store link once the app is live,
   // e.g. "https://apps.apple.com/app/id0000000000".
   // While it is "#", download buttons show "Coming soon to the App Store".
-  APP_STORE_URL: "#",
+  APP_STORE_URL: "https://apps.apple.com/bg/app/icook4u-fitness-recipes/id6831783601",
 
   // TODO: replace with the real support address.
   SUPPORT_EMAIL: "support@example.com",
